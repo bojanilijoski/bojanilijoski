@@ -1,6 +1,6 @@
 ### Hi there, I'm Bojan 👋
 
-I'm a passionate machine learning engineer with a deep love for Python programming <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg](https://github.com/bojanilijoski/bojanilijoski/assets/1163721/b22b8b13-49d3-4d7a-96f3-f6e003c65736)" alt="numpy" width="20" height="20"/>, algorithms, statistics, data science, backend...
+I'm a passionate machine learning engineer with a deep love for Python programming <img src="https://github.com/bojanilijoski/bojanilijoski/assets/1163721/b22b8b13-49d3-4d7a-96f3-f6e003c65736" alt="python" width="20" height="20"/> , algorithms, statistics, data science, backend...
 
 
 
