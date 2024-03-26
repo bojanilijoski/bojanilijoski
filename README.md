@@ -4,10 +4,10 @@ I'm a passionate machine learning engineer with a deep love for Python programmi
 
 
 <a href="https://www.python.org/"><img src="https://www.python.org/static/img/python-logo-large.c36dccadd999.png?1576869008" alt="python" style="width:40px;height:40px;"></a>
-<a href="https://jupyter.org/"><img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="python" style="width:40px;height:40px;"></a>
-<a href="https://aws.amazon.com/"><img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="python" style="width:40px;height:40px;"></a>
-<a href="https://fastapi.tiangolo.com/"><img src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="python" style="width:40px;height:40px;"></a>
-<a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="python" style="width:40px;height:40px;"></a>
+<a href="https://jupyter.org/"><img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="upyter" style="width:40px;height:40px;"></a>
+<a href="https://aws.amazon.com/"><img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="aws" style="width:40px;height:40px;"></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="fastapi" style="width:40px;height:40px;"></a>
+<a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" style="width:40px;height:40px;"></a>
 
 <!--
 **bojanilijoski/bojanilijoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
