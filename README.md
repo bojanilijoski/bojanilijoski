@@ -3,7 +3,7 @@
 I'm a passionate machine learning engineer with a deep love for Python programming <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1920px-Python-logo-notext.svg.png" alt="python" width="20" height="20"/> , algorithms, statistics <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Fisher_iris_versicolor_sepalwidth.svg/2560px-Fisher_iris_versicolor_sepalwidth.svg.png" alt="statistics" width="20" height="20"/>, data science 📊, backend 💻, science 🧑‍🔬...
 
 
-<a href="https://www.python.org/"><img src="https://image.similarpng.com/very-thumbnail/2021/12/Python-programming-logo-on-transparent-background-PNG.png" alt="python" style="width:40px;height:40px;"></a>
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Python_logo_51.svg/1200px-Python_logo_51.svg.png" alt="python" style="width:40px;height:40px;"></a>
 <a href="https://jupyter.org/"><img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="upyter" style="width:40px;height:40px;"></a>
 <a href="https://aws.amazon.com/"><img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="aws" style="width:40px;height:40px;"></a>
 <a href="https://fastapi.tiangolo.com/"><img src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="fastapi" style="width:40px;height:40px;"></a>
