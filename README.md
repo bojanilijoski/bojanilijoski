@@ -1,6 +1,6 @@
 ### Hi there, I'm Bojan 👋
 
-I'm a passionate machine learning engineer with a deep love for Python programming <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1920px-Python-logo-notext.svg.png" alt="python" width="20" height="20"/> , algorithms, statistics, data science, backend...
+I'm a passionate machine learning engineer with a deep love for Python programming <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1920px-Python-logo-notext.svg.png" alt="python" width="20" height="20"/> , algorithms, statistics <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Fisher_iris_versicolor_sepalwidth.svg/2560px-Fisher_iris_versicolor_sepalwidth.svg.png" alt="statistics" width="20" height="20"/>, data science 📊, backend 💻, science 🧑‍🔬...
 
 
 
